@@ -1,0 +1,1633 @@
+[
+    {
+        "id": 1,
+        "disease_label": "手足口病",
+        "self_report": {
+            "烦躁不安": true,
+            "发烧": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "烦躁不安": true,
+            "发烧": true,
+            "皮疹": true,
+            "疱疹": true,
+            "精神萎靡": true,
+            "咳嗽": false,
+            "呕吐": false,
+            "厌食": false
+        }
+    },
+    {
+        "id": 2,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "烦躁不安": true,
+            "发烧": true,
+            "稀便": true
+        },
+        "all_symptoms": {
+            "烦躁不安": true,
+            "发烧": true,
+            "稀便": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 3,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "鼻塞": true,
+            "打喷嚏": true,
+            "呼吸困难": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "打喷嚏": true,
+            "呼吸困难": true,
+            "揉鼻子": true
+        }
+    },
+    {
+        "id": 4,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 5,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "咳嗽": true,
+            "烦躁不安": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "咳嗽": true,
+            "烦躁不安": true,
+            "发烧": false
+        }
+    },
+    {
+        "id": 6,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "稀便": true,
+            "揉眼睛": true,
+            "发烧": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "稀便": true,
+            "揉眼睛": true,
+            "发烧": true,
+            "皮疹": true,
+            "精神萎靡": false
+        }
+    },
+    {
+        "id": 7,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "蛋花样便": true,
+            "稀便": true
+        },
+        "all_symptoms": {
+            "蛋花样便": true,
+            "稀便": true,
+            "精神萎靡": false,
+            "尿少": false
+        }
+    },
+    {
+        "id": 8,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "吐泡泡": true,
+            "咳嗽": true,
+            "鼻塞": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "吐泡泡": true,
+            "咳嗽": true,
+            "鼻塞": true,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 9,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "蛋花样便": true,
+            "呕吐": true,
+            "稀便": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "蛋花样便": true,
+            "呕吐": true,
+            "稀便": true,
+            "发烧": true,
+            "精神萎靡": false,
+            "尿少": true,
+            "烦躁不安": true
+        }
+    },
+    {
+        "id": 10,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "发烧": true,
+            "精神萎靡": false,
+            "呼吸困难": false
+        }
+    },
+    {
+        "id": 11,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "呕吐": true,
+            "发烧": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "呕吐": true,
+            "发烧": true,
+            "皮疹": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 12,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "腹痛": true,
+            "呕吐": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "腹痛": true,
+            "呕吐": true,
+            "发烧": true,
+            "腹胀": true
+        }
+    },
+    {
+        "id": 13,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咳嗽": true,
+            "抽搐": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "抽搐": true,
+            "流涕": true,
+            "过敏": true
+        }
+    },
+    {
+        "id": 14,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "鼻塞": true,
+            "打喷嚏": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "打喷嚏": true,
+            "过敏": true
+        }
+    },
+    {
+        "id": 15,
+        "disease_label": "肺炎",
+        "self_report": {
+            "疱疹": true,
+            "咳嗽": true,
+            "鼻塞": true,
+            "打喷嚏": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "咳嗽": true,
+            "鼻塞": true,
+            "打喷嚏": true,
+            "咳痰": true,
+            "发烧": true
+        }
+    },
+    {
+        "id": 16,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "呕吐": true,
+            "肚子咕噜叫": true,
+            "发烧": true,
+            "稀便": true
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "肚子咕噜叫": true,
+            "发烧": true,
+            "稀便": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 17,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "流涕": true,
+            "吐泡泡": true,
+            "打喷嚏": true,
+            "呼吸困难": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "流涕": true,
+            "吐泡泡": true,
+            "打喷嚏": true,
+            "呼吸困难": true,
+            "呕吐": true,
+            "鼻塞": true
+        }
+    },
+    {
+        "id": 18,
+        "disease_label": "手足口病",
+        "self_report": {
+            "精神萎靡": true,
+            "发烧": true,
+            "厌食": true
+        },
+        "all_symptoms": {
+            "精神萎靡": true,
+            "发烧": true,
+            "厌食": true,
+            "疱疹": true,
+            "淋巴结肿大": true,
+            "皮疹": false
+        }
+    },
+    {
+        "id": 19,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "烦躁不安": true,
+            "呕吐": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "烦躁不安": true,
+            "呕吐": true,
+            "流涕": true,
+            "鼻塞": true,
+            "发烧": false,
+            "肺部湿啰音": false
+        }
+    },
+    {
+        "id": 20,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true,
+            "肺部湿啰音": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 21,
+        "disease_label": "手足口病",
+        "self_report": {
+            "烦躁不安": true,
+            "发烧": true,
+            "流口水": true,
+            "稀便": true
+        },
+        "all_symptoms": {
+            "烦躁不安": true,
+            "发烧": true,
+            "流口水": true,
+            "稀便": true,
+            "精神萎靡": true,
+            "皮疹": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 22,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "发烧": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "发烧": true,
+            "皮疹": true,
+            "精神萎靡": false,
+            "厌食": false,
+            "流口水": true
+        }
+    },
+    {
+        "id": 23,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咽部不适": true,
+            "咳嗽": true,
+            "过敏": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "咳嗽": true,
+            "过敏": true,
+            "流涕": true,
+            "揉鼻子": true
+        }
+    },
+    {
+        "id": 24,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咽部不适": true,
+            "咳嗽": true,
+            "呕吐": true,
+            "发烧": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "咳嗽": true,
+            "呕吐": true,
+            "发烧": true,
+            "咳痰": true,
+            "精神萎靡": false,
+            "肺部阴影": true
+        }
+    },
+    {
+        "id": 25,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "稀便": true,
+            "绿便": true
+        },
+        "all_symptoms": {
+            "稀便": true,
+            "绿便": true,
+            "蛋花样便": true,
+            "精神萎靡": false,
+            "呕吐": true,
+            "发烧": false,
+            "抽搐": true
+        }
+    },
+    {
+        "id": 26,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "呕吐": true,
+            "鼻塞": true,
+            "打喷嚏": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "呕吐": true,
+            "鼻塞": true,
+            "打喷嚏": true,
+            "咳痰": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 27,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "发烧": true,
+            "流涕": false,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 28,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "稀便": true,
+            "发烧": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "稀便": true,
+            "发烧": true,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 29,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "精神萎靡": true,
+            "呕吐": true,
+            "稀便": true,
+            "厌食": true
+        },
+        "all_symptoms": {
+            "精神萎靡": true,
+            "呕吐": true,
+            "稀便": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 31,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "打喷嚏": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "打喷嚏": true,
+            "流涕": true,
+            "呕吐": true,
+            "发烧": false,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 32,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "流涕": true,
+            "发烧": true,
+            "打喷嚏": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "流涕": true,
+            "发烧": true,
+            "打喷嚏": true
+        }
+    },
+    {
+        "id": 33,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "打喷嚏": true,
+            "稀便": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "打喷嚏": true,
+            "稀便": true,
+            "流涕": true,
+            "咳嗽": true,
+            "呕吐": true,
+            "烦躁不安": true
+        }
+    },
+    {
+        "id": 34,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true,
+            "流涕": true,
+            "精神萎靡": false,
+            "鼻塞": true,
+            "发烧": false,
+            "厌食": false
+        }
+    },
+    {
+        "id": 35,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "发烧": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "发烧": true,
+            "咳痰": true,
+            "烦躁不安": true,
+            "鼻塞": true,
+            "肺部湿啰音": true,
+            "呕吐": true,
+            "稀便": true,
+            "打喷嚏": true
+        }
+    },
+    {
+        "id": 36,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "呕吐": true
+        }
+    },
+    {
+        "id": 37,
+        "disease_label": "肺炎",
+        "self_report": {
+            "鼻塞": true,
+            "发烧": true,
+            "流涕": true,
+            "咳嗽": true,
+            "打喷嚏": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "发烧": true,
+            "流涕": true,
+            "咳嗽": true,
+            "打喷嚏": true,
+            "咳痰": true,
+            "烦躁不安": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 38,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咽部不适": true,
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "咳嗽": true,
+            "流涕": true,
+            "呕吐": false,
+            "鼻塞": true,
+            "咳痰": true,
+            "揉鼻子": true
+        }
+    },
+    {
+        "id": 39,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "绿便": true,
+            "肚子咕噜叫": true,
+            "稀便": true,
+            "厌食": true,
+            "放屁": true
+        },
+        "all_symptoms": {
+            "绿便": true,
+            "肚子咕噜叫": true,
+            "稀便": true,
+            "厌食": true,
+            "放屁": true,
+            "烦躁不安": true,
+            "腹胀": true
+        }
+    },
+    {
+        "id": 40,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "呕吐": true,
+            "鼻塞": true,
+            "烦躁不安": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "呕吐": true,
+            "鼻塞": true,
+            "烦躁不安": true,
+            "流涕": true,
+            "精神萎靡": false,
+            "流口水": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 41,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "发烧": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 42,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "打喷嚏": true,
+            "咳痰": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "打喷嚏": true,
+            "咳痰": true,
+            "流涕": true,
+            "精神萎靡": true,
+            "发烧": true
+        }
+    },
+    {
+        "id": 43,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "咽部不适": true,
+            "发烧": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "咽部不适": true,
+            "发烧": true,
+            "皮疹": true,
+            "打喷嚏": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 44,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "发烧": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "发烧": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 45,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咳嗽": true,
+            "鼻塞": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "精神萎靡": false,
+            "过敏": true,
+            "皮疹": false
+        }
+    },
+    {
+        "id": 46,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "精神萎靡": true,
+            "呕吐": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "精神萎靡": true,
+            "呕吐": true,
+            "发烧": true
+        }
+    },
+    {
+        "id": 47,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 48,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "发烧": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "发烧": true,
+            "皮疹": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 49,
+        "disease_label": "手足口病",
+        "self_report": {
+            "皮疹": true,
+            "厌食": true
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "厌食": true,
+            "精神萎靡": false,
+            "流口水": true
+        }
+    },
+    {
+        "id": 50,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "烦躁不安": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "烦躁不安": true,
+            "流涕": true,
+            "厌食": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 51,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "发烧": true,
+            "揉眼睛": true
+        }
+    },
+    {
+        "id": 52,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "皮疹": true,
+            "发烧": true
+        }
+    },
+    {
+        "id": 53,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "呕吐": true,
+            "发烧": true,
+            "咳痰": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "发烧": true,
+            "咳痰": true,
+            "流涕": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 54,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "过敏": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "过敏": true,
+            "流涕": true,
+            "打喷嚏": true
+        }
+    },
+    {
+        "id": 55,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "肺部湿啰音": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "肺部湿啰音": true,
+            "流涕": true,
+            "发烧": true
+        }
+    },
+    {
+        "id": 56,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "烦躁不安": true,
+            "皮疹": true,
+            "流涕": true,
+            "流口水": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "烦躁不安": true,
+            "皮疹": true,
+            "流涕": true,
+            "流口水": true,
+            "发烧": true,
+            "流鼻血": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 57,
+        "disease_label": "肺炎",
+        "self_report": {
+            "发烧": true
+        },
+        "all_symptoms": {
+            "发烧": true,
+            "咳嗽": true,
+            "咳痰": true,
+            "肺部阴影": true,
+            "厌食": false
+        }
+    },
+    {
+        "id": 58,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "打喷嚏": true,
+            "揉鼻子": true
+        },
+        "all_symptoms": {
+            "打喷嚏": true,
+            "揉鼻子": true,
+            "过敏": true,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 59,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "鼻塞": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "流涕": true,
+            "揉眼睛": true,
+            "咳嗽": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 60,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "揉眼睛": true,
+            "流涕": true,
+            "咽部不适": true
+        },
+        "all_symptoms": {
+            "揉眼睛": true,
+            "流涕": true,
+            "咽部不适": true,
+            "过敏": true
+        }
+    },
+    {
+        "id": 61,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "体重减轻": true,
+            "稀便": true
+        },
+        "all_symptoms": {
+            "体重减轻": true,
+            "稀便": true
+        }
+    },
+    {
+        "id": 62,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "呕吐": true,
+            "发烧": true,
+            "稀便": true
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "发烧": true,
+            "稀便": true,
+            "精神萎靡": true
+        }
+    },
+    {
+        "id": 63,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true,
+            "过敏": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 64,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 65,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true,
+            "咽部不适": true,
+            "鼻塞": true
+        }
+    },
+    {
+        "id": 66,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "揉眼睛": true,
+            "发烧": true,
+            "稀便": true
+        },
+        "all_symptoms": {
+            "揉眼睛": true,
+            "发烧": true,
+            "稀便": true
+        }
+    },
+    {
+        "id": 67,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "发烧": true,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 68,
+        "disease_label": "肺炎",
+        "self_report": {
+            "烦躁不安": true,
+            "鼻塞": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "烦躁不安": true,
+            "鼻塞": true,
+            "咳痰": true,
+            "精神萎靡": false,
+            "呕吐": true,
+            "吐泡泡": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 69,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "烦躁不安": true,
+            "厌食": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "烦躁不安": true,
+            "厌食": true,
+            "流涕": true,
+            "发烧": true
+        }
+    },
+    {
+        "id": 70,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "腹痛": true,
+            "发烧": true,
+            "流口水": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "腹痛": true,
+            "发烧": true,
+            "流口水": true,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 71,
+        "disease_label": "手足口病",
+        "self_report": {
+            "咳嗽": true,
+            "呕吐": true,
+            "发烧": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "呕吐": true,
+            "发烧": true,
+            "流涕": true,
+            "咽部不适": true,
+            "稀便": true
+        }
+    },
+    {
+        "id": 72,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "精神萎靡": true,
+            "呕吐": true,
+            "反胃": true,
+            "厌食": true
+        },
+        "all_symptoms": {
+            "精神萎靡": true,
+            "呕吐": true,
+            "反胃": true,
+            "厌食": true,
+            "稀便": true
+        }
+    },
+    {
+        "id": 73,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "鼻塞": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "精神萎靡": false,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 74,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咳嗽": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "流涕": true,
+            "揉鼻子": true
+        }
+    },
+    {
+        "id": 75,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true,
+            "吐泡泡": true,
+            "发烧": false,
+            "流涕": false
+        }
+    },
+    {
+        "id": 76,
+        "disease_label": "手足口病",
+        "self_report": {
+            "发烧": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "发烧": true,
+            "流涕": true,
+            "咽部不适": true,
+            "皮疹": true,
+            "咳嗽": false,
+            "呕吐": false,
+            "稀便": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 77,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "鼻塞": false,
+            "揉鼻子": true
+        }
+    },
+    {
+        "id": 78,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "流涕": true,
+            "盗汗": true,
+            "厌食": false
+        }
+    },
+    {
+        "id": 79,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "皮疹": true,
+            "精神萎靡": false,
+            "呕吐": false,
+            "发烧": false
+        }
+    },
+    {
+        "id": 80,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "稀便": true,
+            "盗汗": true
+        },
+        "all_symptoms": {
+            "稀便": true,
+            "盗汗": true,
+            "精神萎靡": true,
+            "烦躁不安": true,
+            "发烧": false
+        }
+    },
+    {
+        "id": 81,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "发烧": true,
+            "咽部不适": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 82,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "流涕": true,
+            "精神萎靡": false,
+            "发烧": false,
+            "咳痰": false
+        }
+    },
+    {
+        "id": 83,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "呕吐": true,
+            "反胃": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "反胃": true,
+            "发烧": true,
+            "精神萎靡": false,
+            "厌食": false
+        }
+    },
+    {
+        "id": 84,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "精神萎靡": true,
+            "咳嗽": true,
+            "发烧": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "精神萎靡": true,
+            "咳嗽": true,
+            "发烧": true,
+            "流涕": true,
+            "揉眼睛": true,
+            "烦躁不安": true
+        }
+    },
+    {
+        "id": 85,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "烦躁不安": true,
+            "呕吐": true,
+            "反胃": true,
+            "稀便": true,
+            "厌食": true
+        },
+        "all_symptoms": {
+            "烦躁不安": true,
+            "呕吐": true,
+            "反胃": true,
+            "稀便": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 86,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "烦躁不安": true,
+            "发烧": true,
+            "抽搐": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "烦躁不安": true,
+            "发烧": true,
+            "抽搐": true,
+            "厌食": true
+        }
+    },
+    {
+        "id": 87,
+        "disease_label": "小儿腹泻",
+        "self_report": {
+            "精神萎靡": true,
+            "肚子咕噜叫": true,
+            "发烧": true,
+            "稀便": true
+        },
+        "all_symptoms": {
+            "精神萎靡": true,
+            "肚子咕噜叫": true,
+            "发烧": true,
+            "稀便": true
+        }
+    },
+    {
+        "id": 88,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咽部不适": true,
+            "咳嗽": true,
+            "发烧": false
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "咳嗽": true,
+            "发烧": false,
+            "肺部湿啰音": true
+        }
+    },
+    {
+        "id": 89,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "鼻塞": true,
+            "打喷嚏": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "打喷嚏": true,
+            "揉鼻子": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 90,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "呕吐": true,
+            "发烧": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "呕吐": true,
+            "发烧": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 91,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "烦躁不安": true,
+            "鼻塞": true,
+            "打喷嚏": true,
+            "揉鼻子": true
+        },
+        "all_symptoms": {
+            "烦躁不安": true,
+            "鼻塞": true,
+            "打喷嚏": true,
+            "揉鼻子": true,
+            "揉眼睛": true,
+            "皮疹": true,
+            "流鼻血": true
+        }
+    },
+    {
+        "id": 92,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "流涕": true
+        },
+        "all_symptoms": {
+            "流涕": true,
+            "咳嗽": false,
+            "打喷嚏": true,
+            "发烧": false
+        }
+    },
+    {
+        "id": 93,
+        "disease_label": "手足口病",
+        "self_report": {
+            "疱疹": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "疱疹": true,
+            "发烧": true,
+            "精神萎靡": false,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 94,
+        "disease_label": "肺炎",
+        "self_report": {
+            "发烧": true,
+            "厌食": true
+        },
+        "all_symptoms": {
+            "发烧": true,
+            "厌食": true,
+            "肺部湿啰音": true
+        }
+    },
+    {
+        "id": 95,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "呕吐": true,
+            "发烧": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "呕吐": true,
+            "发烧": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 96,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "喘气": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "喘气": true,
+            "咳痰": true,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 97,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "烦躁不安": true,
+            "咳痰": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "烦躁不安": true,
+            "咳痰": true,
+            "流涕": true,
+            "精神萎靡": false,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 98,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true,
+            "流涕": true,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 99,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "呼吸困难": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "呼吸困难": true,
+            "呕吐": true,
+            "发烧": false
+        }
+    },
+    {
+        "id": 100,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "打喷嚏": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "打喷嚏": true,
+            "流涕": true,
+            "发烧": false,
+            "咳痰": false
+        }
+    },
+    {
+        "id": 101,
+        "disease_label": "过敏性鼻炎",
+        "self_report": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "咳痰": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "咳痰": true,
+            "流涕": true,
+            "烦躁不安": true
+        }
+    },
+    {
+        "id": 102,
+        "disease_label": "手足口病",
+        "self_report": {
+            "发烧": true,
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "发烧": true,
+            "皮疹": true,
+            "精神萎靡": false,
+            "厌食": false
+        }
+    },
+    {
+        "id": 103,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "吐泡泡": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "吐泡泡": true,
+            "烦躁不安": true,
+            "稀便": false
+        }
+    },
+    {
+        "id": 104,
+        "disease_label": "上呼吸道感染",
+        "self_report": {
+            "咳嗽": true,
+            "发烧": true,
+            "咳痰": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "发烧": true,
+            "咳痰": true,
+            "流涕": true,
+            "烦躁不安": true
+        }
+    }
+]

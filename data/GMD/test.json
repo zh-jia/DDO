@@ -1,0 +1,3980 @@
+[
+    {
+        "id": 1,
+        "disease_label": "食管炎",
+        "self_report": {
+            "咽部不适": true,
+            "反酸": true
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "反酸": true,
+            "咳嗽": true,
+            "腹痛": true
+        }
+    },
+    {
+        "id": 2,
+        "disease_label": "食管炎",
+        "self_report": {
+            "胸骨后烧灼感": true
+        },
+        "all_symptoms": {
+            "胸骨后烧灼感": true,
+            "呕吐": false,
+            "恶心": false,
+            "腹痛": true,
+            "反酸": true
+        }
+    },
+    {
+        "id": 3,
+        "disease_label": "食管炎",
+        "self_report": {
+            "苔薄白": true,
+            "胸骨后烧灼感": true,
+            "胸闷": false,
+            "胸闷气促": false,
+            "腹胀": false,
+            "腹痛": false,
+            "反酸": false,
+            "呕吐": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "苔薄白": true,
+            "胸骨后烧灼感": true,
+            "胸闷": false,
+            "胸闷气促": false,
+            "腹胀": false,
+            "腹痛": false,
+            "反酸": false,
+            "呕吐": false,
+            "恶心": false,
+            "胸骨后疼痛": false
+        }
+    },
+    {
+        "id": 4,
+        "disease_label": "食管炎",
+        "self_report": {
+            "恶心": true,
+            "胸骨后烧灼感": true,
+            "胸闷气促": false,
+            "腹泻": false,
+            "发热": false,
+            "黑便": false,
+            "心悸": false,
+            "呕吐": false
+        },
+        "all_symptoms": {
+            "恶心": true,
+            "胸骨后烧灼感": true,
+            "胸闷气促": false,
+            "腹泻": false,
+            "发热": false,
+            "黑便": false,
+            "心悸": false,
+            "呕吐": false,
+            "胸闷": false,
+            "反酸": true
+        }
+    },
+    {
+        "id": 5,
+        "disease_label": "食管炎",
+        "self_report": {
+            "咳痰": true,
+            "咽部不适": true,
+            "胸闷": false,
+            "腹泻": false,
+            "发热": false,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "头晕": false,
+            "呕吐": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "咳痰": true,
+            "咽部不适": true,
+            "胸闷": false,
+            "腹泻": false,
+            "发热": false,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "头晕": false,
+            "呕吐": false,
+            "恶心": false,
+            "头痛": false
+        }
+    },
+    {
+        "id": 6,
+        "disease_label": "食管炎",
+        "self_report": {
+            "吞咽困难": true,
+            "腹痛": true
+        },
+        "all_symptoms": {
+            "吞咽困难": true,
+            "腹痛": true,
+            "呕血": false
+        }
+    },
+    {
+        "id": 7,
+        "disease_label": "食管炎",
+        "self_report": {
+            "咳痰": true,
+            "胸骨后烧灼感": true,
+            "胸闷": false,
+            "发热": false,
+            "咯血": false
+        },
+        "all_symptoms": {
+            "咳痰": true,
+            "胸骨后烧灼感": true,
+            "胸闷": false,
+            "发热": false,
+            "咯血": false,
+            "气喘": false,
+            "反酸": true,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 8,
+        "disease_label": "食管炎",
+        "self_report": {
+            "胸骨后烧灼感": true,
+            "腹痛": true
+        },
+        "all_symptoms": {
+            "胸骨后烧灼感": true,
+            "腹痛": true,
+            "反酸": true,
+            "口苦": true
+        }
+    },
+    {
+        "id": 9,
+        "disease_label": "食管炎",
+        "self_report": {
+            "腹胀": true
+        },
+        "all_symptoms": {
+            "腹胀": true,
+            "胸闷": true,
+            "胸骨后疼痛": true,
+            "恶心": true
+        }
+    },
+    {
+        "id": 10,
+        "disease_label": "食管炎",
+        "self_report": {
+            "反酸": true,
+            "胸骨后烧灼感": true,
+            "腹痛": false,
+            "呕吐": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "反酸": true,
+            "胸骨后烧灼感": true,
+            "腹痛": false,
+            "呕吐": false,
+            "恶心": false,
+            "腹胀": false
+        }
+    },
+    {
+        "id": 11,
+        "disease_label": "食管炎",
+        "self_report": {
+            "睡眠差": true,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "睡眠差": true,
+            "恶心": false,
+            "腹痛": false,
+            "呕吐": false,
+            "口渴": true,
+            "胸骨后烧灼感": true,
+            "反酸": true
+        }
+    },
+    {
+        "id": 12,
+        "disease_label": "食管炎",
+        "self_report": {
+            "反酸": true,
+            "畏寒": false,
+            "呕吐": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "反酸": true,
+            "畏寒": false,
+            "呕吐": false,
+            "发热": false,
+            "腹泻": false,
+            "恶心": false,
+            "腹胀": true
+        }
+    },
+    {
+        "id": 13,
+        "disease_label": "食管炎",
+        "self_report": {
+            "反酸": true
+        },
+        "all_symptoms": {
+            "反酸": true,
+            "胸骨后疼痛": true,
+            "恶心": true
+        }
+    },
+    {
+        "id": 14,
+        "disease_label": "食管炎",
+        "self_report": {
+            "恶心": true,
+            "腹痛": false,
+            "腹胀": false
+        },
+        "all_symptoms": {
+            "恶心": true,
+            "腹痛": false,
+            "腹胀": false,
+            "腹泻": false,
+            "呕吐": false,
+            "反酸": true
+        }
+    },
+    {
+        "id": 15,
+        "disease_label": "食管炎",
+        "self_report": {
+            "恶心": true,
+            "咳嗽": true,
+            "腹痛": false,
+            "胸骨后烧灼感": false,
+            "反酸": false,
+            "腹泻": false
+        },
+        "all_symptoms": {
+            "恶心": true,
+            "咳嗽": true,
+            "腹痛": false,
+            "胸骨后烧灼感": false,
+            "反酸": false,
+            "腹泻": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 16,
+        "disease_label": "食管炎",
+        "self_report": {
+            "反酸": true
+        },
+        "all_symptoms": {
+            "反酸": true,
+            "胸骨后烧灼感": true,
+            "胸骨后疼痛": true
+        }
+    },
+    {
+        "id": 17,
+        "disease_label": "肠炎",
+        "self_report": {
+            "腹泻": true,
+            "腹痛腹泻": true
+        },
+        "all_symptoms": {
+            "腹泻": true,
+            "腹痛腹泻": true,
+            "腹痛": false,
+            "发热": true
+        }
+    },
+    {
+        "id": 18,
+        "disease_label": "肠炎",
+        "self_report": {
+            "咽部不适": true
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "流涕": false,
+            "发热": false,
+            "腹泻": true
+        }
+    },
+    {
+        "id": 19,
+        "disease_label": "肠炎",
+        "self_report": {
+            "大便次数增多": true,
+            "发热": true
+        },
+        "all_symptoms": {
+            "大便次数增多": true,
+            "发热": true,
+            "呕吐": false
+        }
+    },
+    {
+        "id": 20,
+        "disease_label": "肠炎",
+        "self_report": {
+            "呕吐": true,
+            "腹泻": true
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "腹泻": true,
+            "咳嗽": true,
+            "流涕": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 21,
+        "disease_label": "肠炎",
+        "self_report": {
+            "腹泻": true,
+            "呕吐": true,
+            "呕血": false,
+            "晕厥": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "腹泻": true,
+            "呕吐": true,
+            "呕血": false,
+            "晕厥": false,
+            "发热": false,
+            "黑便": false,
+            "腹痛": true
+        }
+    },
+    {
+        "id": 22,
+        "disease_label": "肠炎",
+        "self_report": {
+            "腹痛": true,
+            "反酸": true,
+            "呕吐": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "腹痛": true,
+            "反酸": true,
+            "呕吐": false,
+            "恶心": false,
+            "发热": false,
+            "腹泻": true
+        }
+    },
+    {
+        "id": 23,
+        "disease_label": "肠炎",
+        "self_report": {
+            "解稀便": true
+        },
+        "all_symptoms": {
+            "解稀便": true,
+            "呕吐": false,
+            "腹泻": true
+        }
+    },
+    {
+        "id": 24,
+        "disease_label": "肠炎",
+        "self_report": {
+            "腹泻": true,
+            "口渴": false,
+            "发热": false,
+            "抽搐": false
+        },
+        "all_symptoms": {
+            "腹泻": true,
+            "口渴": false,
+            "发热": false,
+            "抽搐": false,
+            "里急后重": false,
+            "粘液脓血便": false,
+            "腹痛": true,
+            "呕吐": true,
+            "食欲减退": true,
+            "尿量减少": true
+        }
+    },
+    {
+        "id": 25,
+        "disease_label": "肠炎",
+        "self_report": {
+            "畏寒": true,
+            "呕吐": false,
+            "血便": false
+        },
+        "all_symptoms": {
+            "畏寒": true,
+            "呕吐": false,
+            "血便": false,
+            "腹痛": false,
+            "发热": false,
+            "恶心": true,
+            "腹泻": true
+        }
+    },
+    {
+        "id": 26,
+        "disease_label": "肠炎",
+        "self_report": {
+            "腹泻": true,
+            "恶心": true
+        },
+        "all_symptoms": {
+            "腹泻": true,
+            "恶心": true,
+            "发热": false,
+            "腹痛": true
+        }
+    },
+    {
+        "id": 27,
+        "disease_label": "肠炎",
+        "self_report": {
+            "腹痛": true,
+            "腹泻": true,
+            "口渴": false,
+            "粘液脓血便": false,
+            "黑便": false
+        },
+        "all_symptoms": {
+            "腹痛": true,
+            "腹泻": true,
+            "口渴": false,
+            "粘液脓血便": false,
+            "黑便": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 28,
+        "disease_label": "肠炎",
+        "self_report": {
+            "腹泻": true,
+            "恶心": true,
+            "畏寒发热": false
+        },
+        "all_symptoms": {
+            "腹泻": true,
+            "恶心": true,
+            "畏寒发热": false,
+            "呕吐": false,
+            "食欲不振": true,
+            "里急后重": true,
+            "腹胀": true
+        }
+    },
+    {
+        "id": 29,
+        "disease_label": "肠炎",
+        "self_report": {
+            "腹泻": true,
+            "尿量减少": true,
+            "里急后重": false,
+            "呕吐": false,
+            "粘液脓血便": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "腹泻": true,
+            "尿量减少": true,
+            "里急后重": false,
+            "呕吐": false,
+            "粘液脓血便": false,
+            "发热": false,
+            "口渴": false
+        }
+    },
+    {
+        "id": 30,
+        "disease_label": "肠炎",
+        "self_report": {
+            "呕吐": true,
+            "口渴": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "口渴": true,
+            "发热": false,
+            "粘液脓血便": false,
+            "食欲减退": true,
+            "腹泻": true,
+            "尿量减少": true
+        }
+    },
+    {
+        "id": 31,
+        "disease_label": "肠炎",
+        "self_report": {
+            "发热": true,
+            "腹痛腹泻": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "腹痛腹泻": true,
+            "腹痛": true,
+            "恶心": true,
+            "腹泻": true,
+            "畏寒": true
+        }
+    },
+    {
+        "id": 32,
+        "disease_label": "肠炎",
+        "self_report": {
+            "食欲减退": true
+        },
+        "all_symptoms": {
+            "食欲减退": true,
+            "咳痰": false,
+            "咽部不适": false,
+            "咳嗽": true
+        }
+    },
+    {
+        "id": 33,
+        "disease_label": "肠炎",
+        "self_report": {
+            "腹泻": true,
+            "恶心": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "腹泻": true,
+            "恶心": false,
+            "发热": false,
+            "呕吐": false,
+            "头晕": false,
+            "腹痛": true
+        }
+    },
+    {
+        "id": 34,
+        "disease_label": "肠炎",
+        "self_report": {
+            "咳嗽": true,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "恶心": false,
+            "腹痛": false,
+            "呕吐": false,
+            "腹泻": true
+        }
+    },
+    {
+        "id": 35,
+        "disease_label": "肠炎",
+        "self_report": {
+            "恶心呕吐": true,
+            "解稀便": true
+        },
+        "all_symptoms": {
+            "恶心呕吐": true,
+            "解稀便": true,
+            "腹泻": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 36,
+        "disease_label": "肠炎",
+        "self_report": {
+            "口渴": true,
+            "腹泻": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "口渴": true,
+            "腹泻": true,
+            "发热": false,
+            "呕吐": false
+        }
+    },
+    {
+        "id": 37,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "气喘": true,
+            "呼吸困难": true
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "呼吸困难": true,
+            "发热": false
+        }
+    },
+    {
+        "id": 38,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "气喘": true,
+            "咳痰": true,
+            "咽部不适": false,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "咳痰": true,
+            "咽部不适": false,
+            "畏寒": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 39,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "咳嗽": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "发热": false,
+            "胸骨后疼痛": false,
+            "咯血": false,
+            "胸闷气促": true,
+            "鼻塞": true,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 40,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "气喘": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "流涕": true,
+            "咳嗽": true,
+            "鼻塞": true,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 41,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "胸闷": true,
+            "咳痰": false
+        },
+        "all_symptoms": {
+            "胸闷": true,
+            "咳痰": false,
+            "发热": false,
+            "心悸": false,
+            "咳嗽": true,
+            "皮疹": true,
+            "胸骨后疼痛": true,
+            "关节痛": true,
+            "气喘": true,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 42,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "胸闷": true
+        },
+        "all_symptoms": {
+            "胸闷": true,
+            "发热": false,
+            "咳嗽": true,
+            "胸闷气促": true,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 43,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "气喘": true,
+            "咳嗽": true,
+            "盗汗": false,
+            "咳痰": false
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "咳嗽": true,
+            "盗汗": false,
+            "咳痰": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 44,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "气喘": true,
+            "发热": true,
+            "发绀": false
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "发热": true,
+            "发绀": false,
+            "抽搐": false,
+            "咳嗽": true
+        }
+    },
+    {
+        "id": 45,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "流涕": true,
+            "打喷嚏": true,
+            "呕吐": false,
+            "气喘": false,
+            "腹泻": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "流涕": true,
+            "打喷嚏": true,
+            "呕吐": false,
+            "气喘": false,
+            "腹泻": false,
+            "发热": false,
+            "胸闷气促": false,
+            "咳嗽": true
+        }
+    },
+    {
+        "id": 46,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "气喘": true,
+            "胸闷气促": true,
+            "发热": false,
+            "胸骨后疼痛": false,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "胸闷气促": true,
+            "发热": false,
+            "胸骨后疼痛": false,
+            "畏寒": false,
+            "心悸": false,
+            "咳嗽": true
+        }
+    },
+    {
+        "id": 47,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "咳嗽": true,
+            "胸闷": false,
+            "鼻塞": false,
+            "流涕": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "胸闷": false,
+            "鼻塞": false,
+            "流涕": false,
+            "发热": false,
+            "胸骨后疼痛": false,
+            "咽部不适": false,
+            "气喘": true,
+            "胸闷气促": true,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 48,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "皮疹": false,
+            "气喘": true
+        }
+    },
+    {
+        "id": 49,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "咳嗽": true,
+            "打喷嚏": true,
+            "胸闷气促": false,
+            "流涕": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "打喷嚏": true,
+            "胸闷气促": false,
+            "流涕": false,
+            "发热": false,
+            "气喘": false
+        }
+    },
+    {
+        "id": 50,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "咳嗽": true,
+            "咽部不适": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咽部不适": true,
+            "发热": false,
+            "胸骨后疼痛": false,
+            "呕吐": true,
+            "气喘": true
+        }
+    },
+    {
+        "id": 51,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "气喘": true,
+            "呼吸困难": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 52,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "畏寒": true,
+            "咳嗽": true,
+            "头痛": false
+        },
+        "all_symptoms": {
+            "畏寒": true,
+            "咳嗽": true,
+            "头痛": false,
+            "口渴": false,
+            "鼻塞": true
+        }
+    },
+    {
+        "id": 53,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "气喘": true,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "流涕": false,
+            "打喷嚏": false,
+            "鼻塞": false,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 54,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "咳嗽": true,
+            "胸闷气促": true,
+            "鼻塞": false,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "胸闷气促": true,
+            "鼻塞": false,
+            "流涕": false,
+            "发热": false,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 55,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "胸闷气促": true,
+            "心悸": false,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "胸闷气促": true,
+            "心悸": false,
+            "畏寒": false,
+            "发热": false,
+            "胸骨后疼痛": false,
+            "咽部不适": true,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 56,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true,
+            "胸闷": false,
+            "胸骨后疼痛": false,
+            "气喘": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true,
+            "胸闷": false,
+            "胸骨后疼痛": false,
+            "气喘": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 57,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "流涕": true,
+            "气喘": true,
+            "吸气性三凹征": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "流涕": true,
+            "气喘": true,
+            "吸气性三凹征": false,
+            "发热": false,
+            "化脓": false,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 58,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "咳痰": true,
+            "气喘": true
+        },
+        "all_symptoms": {
+            "咳痰": true,
+            "气喘": true,
+            "咯血": false,
+            "发热": true
+        }
+    },
+    {
+        "id": 59,
+        "disease_label": "支气管哮喘",
+        "self_report": {
+            "呼吸困难": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "呼吸困难": true,
+            "发热": false,
+            "咽部不适": false,
+            "胸骨后疼痛": false,
+            "胸闷": true,
+            "气喘": true
+        }
+    },
+    {
+        "id": 60,
+        "disease_label": "冠心病",
+        "self_report": {
+            "心悸": true,
+            "头昏": true,
+            "呼吸困难": false,
+            "晕厥": false,
+            "咳痰": false,
+            "咳嗽": false,
+            "腹痛": false,
+            "黑朦": false
+        },
+        "all_symptoms": {
+            "心悸": true,
+            "头昏": true,
+            "呼吸困难": false,
+            "晕厥": false,
+            "咳痰": false,
+            "咳嗽": false,
+            "腹痛": false,
+            "黑朦": false,
+            "背痛": false,
+            "胸闷": true,
+            "胸骨后疼痛": true
+        }
+    },
+    {
+        "id": 61,
+        "disease_label": "冠心病",
+        "self_report": {
+            "胸闷": true,
+            "呼吸困难": true,
+            "咳嗽": false,
+            "盗汗": false,
+            "咯血": false
+        },
+        "all_symptoms": {
+            "胸闷": true,
+            "呼吸困难": true,
+            "咳嗽": false,
+            "盗汗": false,
+            "咯血": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 62,
+        "disease_label": "冠心病",
+        "self_report": {
+            "呼吸困难": true,
+            "胸闷": true,
+            "胸骨后疼痛": false
+        },
+        "all_symptoms": {
+            "呼吸困难": true,
+            "胸闷": true,
+            "胸骨后疼痛": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 63,
+        "disease_label": "冠心病",
+        "self_report": {
+            "心悸": true,
+            "胸闷": false,
+            "呕吐": false
+        },
+        "all_symptoms": {
+            "心悸": true,
+            "胸闷": false,
+            "呕吐": false,
+            "腹痛": false,
+            "头痛": false,
+            "胸骨后疼痛": true
+        }
+    },
+    {
+        "id": 64,
+        "disease_label": "冠心病",
+        "self_report": {
+            "胸闷气促": true,
+            "腹泻": false
+        },
+        "all_symptoms": {
+            "胸闷气促": true,
+            "腹泻": false,
+            "呕吐": false,
+            "腹痛": false,
+            "胸闷": true,
+            "恶心": true,
+            "呼吸困难": true,
+            "心悸": true
+        }
+    },
+    {
+        "id": 65,
+        "disease_label": "冠心病",
+        "self_report": {
+            "胸闷": true,
+            "胸骨后疼痛": true,
+            "腹痛": false,
+            "呕吐": false,
+            "大汗淋漓": false,
+            "腰背痛": false
+        },
+        "all_symptoms": {
+            "胸闷": true,
+            "胸骨后疼痛": true,
+            "腹痛": false,
+            "呕吐": false,
+            "大汗淋漓": false,
+            "腰背痛": false,
+            "恶心": false
+        }
+    },
+    {
+        "id": 66,
+        "disease_label": "冠心病",
+        "self_report": {
+            "心悸": true,
+            "胸闷气促": true
+        },
+        "all_symptoms": {
+            "心悸": true,
+            "胸闷气促": true,
+            "胸闷": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 67,
+        "disease_label": "冠心病",
+        "self_report": {
+            "胸骨后疼痛": true,
+            "胸闷": true,
+            "睡眠障碍": false,
+            "晕厥": false,
+            "反酸": false,
+            "头晕": false,
+            "呕吐": false,
+            "恶心": false,
+            "大汗淋漓": false
+        },
+        "all_symptoms": {
+            "胸骨后疼痛": true,
+            "胸闷": true,
+            "睡眠障碍": false,
+            "晕厥": false,
+            "反酸": false,
+            "头晕": false,
+            "呕吐": false,
+            "恶心": false,
+            "大汗淋漓": false,
+            "胸闷气促": false
+        }
+    },
+    {
+        "id": 68,
+        "disease_label": "冠心病",
+        "self_report": {
+            "心悸": true
+        },
+        "all_symptoms": {
+            "心悸": true,
+            "口渴": true,
+            "头晕": true
+        }
+    },
+    {
+        "id": 69,
+        "disease_label": "冠心病",
+        "self_report": {
+            "胸闷气促": true,
+            "咳痰": false
+        },
+        "all_symptoms": {
+            "胸闷气促": true,
+            "咳痰": false,
+            "咳嗽": false,
+            "水肿": false,
+            "胸闷": true,
+            "大汗淋漓": true,
+            "心悸": true,
+            "睡眠差": true
+        }
+    },
+    {
+        "id": 70,
+        "disease_label": "冠心病",
+        "self_report": {
+            "头昏": true,
+            "胸闷": true,
+            "呕吐": false
+        },
+        "all_symptoms": {
+            "头昏": true,
+            "胸闷": true,
+            "呕吐": false,
+            "耳鸣": false,
+            "头痛": true
+        }
+    },
+    {
+        "id": 71,
+        "disease_label": "冠心病",
+        "self_report": {
+            "腹胀": true
+        },
+        "all_symptoms": {
+            "腹胀": true,
+            "恶心": false,
+            "胸闷": true
+        }
+    },
+    {
+        "id": 72,
+        "disease_label": "冠心病",
+        "self_report": {
+            "咳痰": true,
+            "咳嗽": true,
+            "胸闷": false,
+            "胸闷气促": false,
+            "胸骨后疼痛": false,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "咳痰": true,
+            "咳嗽": true,
+            "胸闷": false,
+            "胸闷气促": false,
+            "胸骨后疼痛": false,
+            "畏寒": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 73,
+        "disease_label": "冠心病",
+        "self_report": {
+            "气喘": true,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "背痛": false,
+            "黑朦": false
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "背痛": false,
+            "黑朦": false,
+            "晕厥": false,
+            "心悸": false,
+            "胸闷": true,
+            "呼吸困难": true
+        }
+    },
+    {
+        "id": 74,
+        "disease_label": "冠心病",
+        "self_report": {
+            "恶心": true,
+            "大汗淋漓": true,
+            "胸骨后疼痛": false
+        },
+        "all_symptoms": {
+            "恶心": true,
+            "大汗淋漓": true,
+            "胸骨后疼痛": false,
+            "呕吐": false
+        }
+    },
+    {
+        "id": 75,
+        "disease_label": "冠心病",
+        "self_report": {
+            "腹痛": true,
+            "胸闷": true
+        },
+        "all_symptoms": {
+            "腹痛": true,
+            "胸闷": true,
+            "呼吸困难": false,
+            "心悸": true
+        }
+    },
+    {
+        "id": 76,
+        "disease_label": "冠心病",
+        "self_report": {
+            "头昏": true,
+            "心悸": true,
+            "畏寒": false,
+            "呕吐": false,
+            "发热": false,
+            "咳痰": false
+        },
+        "all_symptoms": {
+            "头昏": true,
+            "心悸": true,
+            "畏寒": false,
+            "呕吐": false,
+            "发热": false,
+            "咳痰": false,
+            "腹泻": false,
+            "头晕": true
+        }
+    },
+    {
+        "id": 77,
+        "disease_label": "冠心病",
+        "self_report": {
+            "胸闷气促": true
+        },
+        "all_symptoms": {
+            "胸闷气促": true,
+            "胸闷": true,
+            "睡眠障碍": true
+        }
+    },
+    {
+        "id": 78,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "畏寒发热": true,
+            "腹痛": false,
+            "腹泻": false,
+            "尿频": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "畏寒发热": true,
+            "腹痛": false,
+            "腹泻": false,
+            "尿频": false,
+            "尿急": false,
+            "咽部不适": true,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 79,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳痰": true,
+            "胸闷": false,
+            "胸闷气促": false,
+            "发热": false,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "咳痰": true,
+            "胸闷": false,
+            "胸闷气促": false,
+            "发热": false,
+            "畏寒": false,
+            "咯血": false,
+            "胸骨后疼痛": false,
+            "咳嗽": true
+        }
+    },
+    {
+        "id": 80,
+        "disease_label": "肺炎",
+        "self_report": {
+            "流涕": true,
+            "鼻塞": true,
+            "胸闷气促": false,
+            "腹泻": false,
+            "气喘": false
+        },
+        "all_symptoms": {
+            "流涕": true,
+            "鼻塞": true,
+            "胸闷气促": false,
+            "腹泻": false,
+            "气喘": false,
+            "发绀": false,
+            "咳嗽": true,
+            "食欲减退": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 81,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "气喘": true,
+            "胸闷气促": false,
+            "发绀": false,
+            "声嘶": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "气喘": true,
+            "胸闷气促": false,
+            "发绀": false,
+            "声嘶": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 82,
+        "disease_label": "肺炎",
+        "self_report": {
+            "气喘": true,
+            "胸闷气促": false,
+            "发热": false,
+            "腹胀": false
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "胸闷气促": false,
+            "发热": false,
+            "腹胀": false,
+            "发绀": false,
+            "呕吐": false,
+            "咳嗽": true
+        }
+    },
+    {
+        "id": 83,
+        "disease_label": "肺炎",
+        "self_report": {
+            "发热": true,
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "咳嗽": true,
+            "气喘": false,
+            "流涕": true
+        }
+    },
+    {
+        "id": 84,
+        "disease_label": "肺炎",
+        "self_report": {
+            "发热": true,
+            "呕吐": false,
+            "胸闷气促": false,
+            "腹泻": false,
+            "抽搐": false
+        },
+        "all_symptoms": {
+            "发热": true,
+            "呕吐": false,
+            "胸闷气促": false,
+            "腹泻": false,
+            "抽搐": false,
+            "发绀": false,
+            "皮疹": false,
+            "咳嗽": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 85,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "胸闷气促": false,
+            "腹痛": true,
+            "呕吐": true,
+            "便秘": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 86,
+        "disease_label": "肺炎",
+        "self_report": {
+            "发热": true,
+            "咳痰": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "咳痰": true,
+            "胸骨后疼痛": true
+        }
+    },
+    {
+        "id": 87,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咽部不适": true,
+            "胸骨后疼痛": true
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "胸骨后疼痛": true,
+            "咳嗽": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 88,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳痰": true,
+            "呕吐": true,
+            "寒战": false
+        },
+        "all_symptoms": {
+            "咳痰": true,
+            "呕吐": true,
+            "寒战": false,
+            "抽搐": false,
+            "咳嗽": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 89,
+        "disease_label": "肺炎",
+        "self_report": {
+            "发热": true,
+            "咳嗽": true,
+            "咽部不适": false,
+            "呕吐": false,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "发热": true,
+            "咳嗽": true,
+            "咽部不适": false,
+            "呕吐": false,
+            "流涕": false,
+            "抽搐": false,
+            "气喘": true
+        }
+    },
+    {
+        "id": 90,
+        "disease_label": "肺炎",
+        "self_report": {
+            "发热": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "气喘": false,
+            "胸闷气促": false,
+            "咳嗽": true,
+            "鼻塞": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 91,
+        "disease_label": "肺炎",
+        "self_report": {
+            "气喘": true
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "呕吐": false,
+            "腹泻": false,
+            "咳嗽": true,
+            "咽部不适": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 92,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "畏寒": false,
+            "发热": false,
+            "胸闷": false,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 93,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true,
+            "胸闷": false,
+            "咯血": false,
+            "胸闷气促": false,
+            "黑便": false,
+            "发热": false,
+            "胸骨后疼痛": false,
+            "血便": false,
+            "呕吐": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true,
+            "胸闷": false,
+            "咯血": false,
+            "胸闷气促": false,
+            "黑便": false,
+            "发热": false,
+            "胸骨后疼痛": false,
+            "血便": false,
+            "呕吐": false,
+            "恶心": false,
+            "声嘶": false,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 94,
+        "disease_label": "肺炎",
+        "self_report": {
+            "食欲减退": true,
+            "鼻塞": true,
+            "胸闷气促": false,
+            "腹泻": false,
+            "发热": false,
+            "呕吐": false,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "食欲减退": true,
+            "鼻塞": true,
+            "胸闷气促": false,
+            "腹泻": false,
+            "发热": false,
+            "呕吐": false,
+            "流涕": false,
+            "气喘": false,
+            "咳嗽": true
+        }
+    },
+    {
+        "id": 95,
+        "disease_label": "肺炎",
+        "self_report": {
+            "鼻塞": true,
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "咳嗽": true,
+            "发热": false,
+            "胸骨后疼痛": true
+        }
+    },
+    {
+        "id": 96,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "抽搐": false,
+            "寒战": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "鼻塞": true,
+            "抽搐": false,
+            "寒战": false,
+            "化脓": false,
+            "咽部不适": true,
+            "流涕": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 97,
+        "disease_label": "肺炎",
+        "self_report": {
+            "气喘": true,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "气喘": true,
+            "流涕": false,
+            "发绀": false,
+            "发热": false,
+            "咳嗽": true,
+            "胸闷气促": true,
+            "鼻塞": true,
+            "食欲减退": true
+        }
+    },
+    {
+        "id": 98,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "流涕": true,
+            "呕吐": false,
+            "气喘": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "流涕": true,
+            "呕吐": false,
+            "气喘": false,
+            "恶心": false,
+            "发热": false,
+            "鼻塞": true
+        }
+    },
+    {
+        "id": 99,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "发绀": false,
+            "胸闷气促": false,
+            "腹胀": false,
+            "寒战": false,
+            "呕吐": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "发绀": false,
+            "胸闷气促": false,
+            "腹胀": false,
+            "寒战": false,
+            "呕吐": false,
+            "气喘": false,
+            "抽搐": false,
+            "流涕": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 100,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "气喘": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "气喘": true,
+            "呼吸困难": false,
+            "发热": true
+        }
+    },
+    {
+        "id": 101,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "咳痰": true,
+            "胸骨后疼痛": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咳痰": true,
+            "胸骨后疼痛": false,
+            "发热": false,
+            "气喘": false
+        }
+    },
+    {
+        "id": 102,
+        "disease_label": "肺炎",
+        "self_report": {
+            "咳嗽": true,
+            "发热": true,
+            "气喘": false,
+            "腹泻": false
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "发热": true,
+            "气喘": false,
+            "腹泻": false,
+            "呕吐": false
+        }
+    },
+    {
+        "id": 103,
+        "disease_label": "肺炎",
+        "self_report": {
+            "食欲减退": true,
+            "气喘": false
+        },
+        "all_symptoms": {
+            "食欲减退": true,
+            "气喘": false,
+            "发热": false,
+            "胸闷气促": false,
+            "咳嗽": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 104,
+        "disease_label": "肺炎",
+        "self_report": {
+            "胸闷气促": true,
+            "发绀": false,
+            "咳痰": false,
+            "发热": false,
+            "大汗淋漓": false,
+            "抽搐": false
+        },
+        "all_symptoms": {
+            "胸闷气促": true,
+            "发绀": false,
+            "咳痰": false,
+            "发热": false,
+            "大汗淋漓": false,
+            "抽搐": false,
+            "呕吐": false,
+            "皮疹": false,
+            "咳嗽": true,
+            "气喘": true
+        }
+    },
+    {
+        "id": 105,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "发热": true,
+            "打喷嚏": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "打喷嚏": true,
+            "咳嗽": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 106,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "流涕": true
+        },
+        "all_symptoms": {
+            "流涕": true,
+            "发热": false,
+            "咳嗽": true,
+            "咳痰": true,
+            "头晕": true
+        }
+    },
+    {
+        "id": 107,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "咽部不适": true,
+            "全身酸痛": false
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "全身酸痛": false,
+            "发热": false,
+            "咳嗽": false,
+            "流涕": true
+        }
+    },
+    {
+        "id": 108,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "流脓涕": true
+        },
+        "all_symptoms": {
+            "流脓涕": true,
+            "打喷嚏": false,
+            "头痛": false,
+            "鼻塞": true
+        }
+    },
+    {
+        "id": 109,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "发热": true,
+            "双侧扁桃体Ⅰ度肿大": true,
+            "化脓": false,
+            "咳嗽": false,
+            "寒战": false
+        },
+        "all_symptoms": {
+            "发热": true,
+            "双侧扁桃体Ⅰ度肿大": true,
+            "化脓": false,
+            "咳嗽": false,
+            "寒战": false,
+            "抽搐": false,
+            "流涕": true,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 110,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "流涕": true
+        },
+        "all_symptoms": {
+            "流涕": true,
+            "咽部不适": false,
+            "发热": false,
+            "耳痛": true
+        }
+    },
+    {
+        "id": 111,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "鼻塞": true,
+            "咽部不适": true,
+            "咳嗽": false,
+            "盗汗": false
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "咽部不适": true,
+            "咳嗽": false,
+            "盗汗": false,
+            "发热": false
+        }
+    },
+    {
+        "id": 112,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "化脓": false,
+            "流涕": true,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 113,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "鼻塞": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "流涕": true,
+            "鼻出血": false,
+            "打喷嚏": true
+        }
+    },
+    {
+        "id": 114,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "打喷嚏": true
+        },
+        "all_symptoms": {
+            "打喷嚏": true,
+            "头痛": false,
+            "鼻塞": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 115,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "咽部不适": true,
+            "鼻塞": true,
+            "头痛": false,
+            "咳嗽": false,
+            "发热": false,
+            "寒战": false,
+            "抽搐": false
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "鼻塞": true,
+            "头痛": false,
+            "咳嗽": false,
+            "发热": false,
+            "寒战": false,
+            "抽搐": false,
+            "呕吐": false,
+            "双侧扁桃体Ⅰ度肿大": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 116,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "打喷嚏": true,
+            "头昏": true
+        },
+        "all_symptoms": {
+            "打喷嚏": true,
+            "头昏": true,
+            "头痛": false
+        }
+    },
+    {
+        "id": 117,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "双鼻黏膜肿胀": true,
+            "流涕": true
+        },
+        "all_symptoms": {
+            "双鼻黏膜肿胀": true,
+            "流涕": true,
+            "发热": false,
+            "鼻粘膜充血": true
+        }
+    },
+    {
+        "id": 118,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "鼻塞": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "发热": false,
+            "流脓涕": false,
+            "头痛": false,
+            "打喷嚏": true
+        }
+    },
+    {
+        "id": 119,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "呕吐": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "发热": false,
+            "腹痛": false,
+            "腹泻": false,
+            "恶心": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 120,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "发热": true,
+            "咽部不适": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "咽部不适": true,
+            "头痛": true,
+            "鼻塞": true,
+            "流涕": true,
+            "打喷嚏": true
+        }
+    },
+    {
+        "id": 121,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "打喷嚏": true,
+            "鼻塞": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "打喷嚏": true,
+            "鼻塞": true,
+            "发热": false,
+            "咳嗽": false,
+            "流涕": true,
+            "鼻出血": true
+        }
+    },
+    {
+        "id": 122,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "打喷嚏": true,
+            "鼻塞": true
+        },
+        "all_symptoms": {
+            "打喷嚏": true,
+            "鼻塞": true,
+            "头痛": true
+        }
+    },
+    {
+        "id": 123,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "鼻塞": true,
+            "打喷嚏": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "打喷嚏": true,
+            "咽部不适": false,
+            "流涕": true
+        }
+    },
+    {
+        "id": 124,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "流涕": true,
+            "打喷嚏": true,
+            "鼻出血": false
+        },
+        "all_symptoms": {
+            "流涕": true,
+            "打喷嚏": true,
+            "鼻出血": false,
+            "头痛": false,
+            "鼻塞": true
+        }
+    },
+    {
+        "id": 125,
+        "disease_label": "鼻炎",
+        "self_report": {
+            "胸骨后疼痛": true,
+            "鼻塞": true
+        },
+        "all_symptoms": {
+            "胸骨后疼痛": true,
+            "鼻塞": true,
+            "咳嗽": true
+        }
+    },
+    {
+        "id": 126,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "甲状腺轻度肿大": true,
+            "颈前疼痛": true
+        },
+        "all_symptoms": {
+            "甲状腺轻度肿大": true,
+            "颈前疼痛": true,
+            "发热": false,
+            "咳嗽": true,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 127,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "乏力": true
+        },
+        "all_symptoms": {
+            "乏力": true,
+            "甲状腺轻度肿大": true,
+            "颈前疼痛": true
+        }
+    },
+    {
+        "id": 128,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "甲状腺轻度肿大": true,
+            "乏力": true
+        },
+        "all_symptoms": {
+            "甲状腺轻度肿大": true,
+            "乏力": true,
+            "发热": false
+        }
+    },
+    {
+        "id": 129,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "头昏": true
+        },
+        "all_symptoms": {
+            "头昏": true,
+            "突眼": false,
+            "乏力": true,
+            "睡眠差": true
+        }
+    },
+    {
+        "id": 130,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "颈前疼痛": true
+        },
+        "all_symptoms": {
+            "颈前疼痛": true,
+            "手颤": false,
+            "怕冷": true
+        }
+    },
+    {
+        "id": 131,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "食欲减退": true,
+            "乏力": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "食欲减退": true,
+            "乏力": false,
+            "发热": false,
+            "鼻塞": false,
+            "咳嗽": false,
+            "甲状腺轻度肿大": true,
+            "心悸": true,
+            "大汗淋漓": true
+        }
+    },
+    {
+        "id": 132,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "大汗淋漓": true
+        },
+        "all_symptoms": {
+            "大汗淋漓": true,
+            "颈前疼痛": true,
+            "怕热": true
+        }
+    },
+    {
+        "id": 133,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "甲状腺轻度肿大": true
+        },
+        "all_symptoms": {
+            "甲状腺轻度肿大": true,
+            "怕热": false,
+            "大汗淋漓": false,
+            "颈前疼痛": true,
+            "心悸": true
+        }
+    },
+    {
+        "id": 134,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "心悸": true
+        },
+        "all_symptoms": {
+            "心悸": true,
+            "口渴": true,
+            "头昏": true
+        }
+    },
+    {
+        "id": 135,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "咽部不适": true
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "颈前疼痛": true,
+            "心悸": true
+        }
+    },
+    {
+        "id": 136,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "发热": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "突眼": false,
+            "心悸": false,
+            "颈前疼痛": true
+        }
+    },
+    {
+        "id": 137,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "手抖": true
+        },
+        "all_symptoms": {
+            "手抖": true,
+            "突眼": false,
+            "心悸": false,
+            "消瘦": true
+        }
+    },
+    {
+        "id": 138,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "大汗淋漓": true
+        },
+        "all_symptoms": {
+            "大汗淋漓": true,
+            "胸闷": true,
+            "乏力": true
+        }
+    },
+    {
+        "id": 139,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "呕吐": true,
+            "咳嗽": true,
+            "胸闷气促": false,
+            "腹泻": false,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "大汗淋漓": false
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "咳嗽": true,
+            "胸闷气促": false,
+            "腹泻": false,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "大汗淋漓": false,
+            "恶心": false,
+            "胸闷": true,
+            "心悸": true
+        }
+    },
+    {
+        "id": 140,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "咽部不适": true,
+            "颈前疼痛": true,
+            "怕热": false,
+            "心悸": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "颈前疼痛": true,
+            "怕热": false,
+            "心悸": false,
+            "发热": false,
+            "消瘦": false
+        }
+    },
+    {
+        "id": 141,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "头昏": true,
+            "乏力": true
+        },
+        "all_symptoms": {
+            "头昏": true,
+            "乏力": true,
+            "手颤": false
+        }
+    },
+    {
+        "id": 142,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "发热": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "突眼": false,
+            "颈前疼痛": true,
+            "乏力": true
+        }
+    },
+    {
+        "id": 143,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "甲状腺轻度肿大": true
+        },
+        "all_symptoms": {
+            "甲状腺轻度肿大": true,
+            "发热": false,
+            "颈前疼痛": true,
+            "心悸": true
+        }
+    },
+    {
+        "id": 144,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "发热": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "咽部不适": false,
+            "流涕": true
+        }
+    },
+    {
+        "id": 145,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "吞咽困难": true,
+            "颈前疼痛": true
+        },
+        "all_symptoms": {
+            "吞咽困难": true,
+            "颈前疼痛": true,
+            "手颤": false
+        }
+    },
+    {
+        "id": 146,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "颈前疼痛": true
+        },
+        "all_symptoms": {
+            "颈前疼痛": true,
+            "手颤": false,
+            "心悸": true
+        }
+    },
+    {
+        "id": 147,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "咳嗽": true,
+            "咽部不适": true
+        },
+        "all_symptoms": {
+            "咳嗽": true,
+            "咽部不适": true,
+            "胸骨后疼痛": false,
+            "发热": true,
+            "咳痰": true
+        }
+    },
+    {
+        "id": 148,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "颈前疼痛": true,
+            "咳嗽": true
+        },
+        "all_symptoms": {
+            "颈前疼痛": true,
+            "咳嗽": true,
+            "发热": false
+        }
+    },
+    {
+        "id": 149,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "怕冷": true,
+            "胸闷": false,
+            "消瘦": false,
+            "胸闷气促": false,
+            "怕热": false,
+            "心悸": false,
+            "手抖": false
+        },
+        "all_symptoms": {
+            "怕冷": true,
+            "胸闷": false,
+            "消瘦": false,
+            "胸闷气促": false,
+            "怕热": false,
+            "心悸": false,
+            "手抖": false,
+            "食欲不振": false,
+            "大汗淋漓": false,
+            "甲状腺轻度肿大": true
+        }
+    },
+    {
+        "id": 150,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "乏力": true,
+            "头晕": true,
+            "突眼": false
+        },
+        "all_symptoms": {
+            "乏力": true,
+            "头晕": true,
+            "突眼": false,
+            "水肿": false
+        }
+    },
+    {
+        "id": 151,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "咽部不适": true,
+            "发热": false,
+            "声嘶": false
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "发热": false,
+            "声嘶": false,
+            "吞咽困难": false,
+            "心悸": false,
+            "恶心": true
+        }
+    },
+    {
+        "id": 152,
+        "disease_label": "甲状腺炎",
+        "self_report": {
+            "咽部不适": true
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "大便次数增多": false,
+            "发热": true,
+            "大汗淋漓": true,
+            "乏力": true
+        }
+    },
+    {
+        "id": 153,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "腰背痛": true
+        },
+        "all_symptoms": {
+            "腰背痛": true,
+            "呕吐": false,
+            "头痛": true,
+            "恶心": true,
+            "头晕": true
+        }
+    },
+    {
+        "id": 154,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "头部外伤疼痛": true
+        },
+        "all_symptoms": {
+            "头部外伤疼痛": true,
+            "呕吐": false,
+            "恶心": false,
+            "腹痛": true
+        }
+    },
+    {
+        "id": 155,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "呕吐": true,
+            "恶心呕吐": true
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "恶心呕吐": true,
+            "神志不清": false
+        }
+    },
+    {
+        "id": 156,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "恶心呕吐": true
+        },
+        "all_symptoms": {
+            "恶心呕吐": true,
+            "胸闷": false,
+            "心悸": true
+        }
+    },
+    {
+        "id": 157,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "耳鸣": true
+        },
+        "all_symptoms": {
+            "耳鸣": true,
+            "呕吐": false,
+            "听力下降": true,
+            "恶心": true
+        }
+    },
+    {
+        "id": 158,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "头晕": true,
+            "腹痛": true,
+            "恶心呕吐": false
+        },
+        "all_symptoms": {
+            "头晕": true,
+            "腹痛": true,
+            "恶心呕吐": false,
+            "意识障碍": false
+        }
+    },
+    {
+        "id": 159,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "头部外伤疼痛": true,
+            "抽搐": false
+        },
+        "all_symptoms": {
+            "头部外伤疼痛": true,
+            "抽搐": false,
+            "呕吐": false,
+            "晕厥": false,
+            "哭闹": true
+        }
+    },
+    {
+        "id": 160,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "耳鸣": true,
+            "意识障碍": true
+        },
+        "all_symptoms": {
+            "耳鸣": true,
+            "意识障碍": true,
+            "恶心呕吐": false
+        }
+    },
+    {
+        "id": 161,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "恶心": true,
+            "精神欠佳": true
+        },
+        "all_symptoms": {
+            "恶心": true,
+            "精神欠佳": true,
+            "头痛": true,
+            "头昏": true
+        }
+    },
+    {
+        "id": 162,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "恶心呕吐": true,
+            "意识障碍": true
+        },
+        "all_symptoms": {
+            "恶心呕吐": true,
+            "意识障碍": true,
+            "头痛": true,
+            "头昏": true
+        }
+    },
+    {
+        "id": 163,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "呕吐": true
+        },
+        "all_symptoms": {
+            "呕吐": true,
+            "头痛": false,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 164,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "头昏": true,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "头昏": true,
+            "恶心": false,
+            "呕吐": false,
+            "意识障碍": false,
+            "头痛": true
+        }
+    },
+    {
+        "id": 165,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "意识障碍": true,
+            "睡眠差": true,
+            "耳鸣": false,
+            "呕吐": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "意识障碍": true,
+            "睡眠差": true,
+            "耳鸣": false,
+            "呕吐": false,
+            "发热": false,
+            "恶心": false
+        }
+    },
+    {
+        "id": 166,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "头痛头晕": true,
+            "腹痛": false,
+            "呕吐": false,
+            "胸闷气促": false
+        },
+        "all_symptoms": {
+            "头痛头晕": true,
+            "腹痛": false,
+            "呕吐": false,
+            "胸闷气促": false,
+            "胸闷": false,
+            "腹胀": false,
+            "头痛": true
+        }
+    },
+    {
+        "id": 167,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "心悸": true,
+            "胸闷": true
+        },
+        "all_symptoms": {
+            "心悸": true,
+            "胸闷": true,
+            "呕吐": true,
+            "胸闷气促": true
+        }
+    },
+    {
+        "id": 168,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "头痛": true,
+            "头部外伤疼痛": true
+        },
+        "all_symptoms": {
+            "头痛": true,
+            "头部外伤疼痛": true,
+            "意识障碍": false,
+            "头晕": true
+        }
+    },
+    {
+        "id": 169,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "咽部不适": true
+        },
+        "all_symptoms": {
+            "咽部不适": true,
+            "呕吐": false,
+            "头部外伤疼痛": true
+        }
+    },
+    {
+        "id": 170,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "头痛": true
+        },
+        "all_symptoms": {
+            "头痛": true,
+            "意识障碍": false,
+            "恶心呕吐": false,
+            "头部外伤疼痛": true
+        }
+    },
+    {
+        "id": 171,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "头晕": true,
+            "耳鸣": true,
+            "恶心呕吐": false
+        },
+        "all_symptoms": {
+            "头晕": true,
+            "耳鸣": true,
+            "恶心呕吐": false,
+            "意识障碍": false
+        }
+    },
+    {
+        "id": 172,
+        "disease_label": "脑外伤",
+        "self_report": {
+            "头晕": true
+        },
+        "all_symptoms": {
+            "头晕": true,
+            "耳鸣": true,
+            "恶心": true,
+            "心悸": true
+        }
+    },
+    {
+        "id": 173,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true,
+            "流涕": false,
+            "鼻塞": false,
+            "咳嗽": false,
+            "胸闷气促": false,
+            "发热": false,
+            "头晕": false,
+            "寒战": false,
+            "呕吐": false,
+            "气喘": false,
+            "咽部不适": false
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "流涕": false,
+            "鼻塞": false,
+            "咳嗽": false,
+            "胸闷气促": false,
+            "发热": false,
+            "头晕": false,
+            "寒战": false,
+            "呕吐": false,
+            "气喘": false,
+            "咽部不适": false,
+            "头痛": false,
+            "咳痰": false,
+            "瘙痒": true
+        }
+    },
+    {
+        "id": 174,
+        "disease_label": "皮炎",
+        "self_report": {
+            "瘙痒": true,
+            "胸闷": false,
+            "头痛": false,
+            "头昏": false,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "瘙痒": true,
+            "胸闷": false,
+            "头痛": false,
+            "头昏": false,
+            "畏寒": false,
+            "发热": false,
+            "心悸": false,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 175,
+        "disease_label": "皮炎",
+        "self_report": {
+            "红肿": true
+        },
+        "all_symptoms": {
+            "红肿": true,
+            "腹痛": false,
+            "化脓": true
+        }
+    },
+    {
+        "id": 176,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "气喘": false,
+            "胸闷气促": false,
+            "瘙痒": true
+        }
+    },
+    {
+        "id": 177,
+        "disease_label": "皮炎",
+        "self_report": {
+            "瘙痒": true,
+            "食欲减退": true,
+            "咳嗽": false,
+            "流涕": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "瘙痒": true,
+            "食欲减退": true,
+            "咳嗽": false,
+            "流涕": false,
+            "发热": false,
+            "呕吐": false,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 178,
+        "disease_label": "皮炎",
+        "self_report": {
+            "瘙痒": true,
+            "胸闷": false,
+            "胸闷气促": false,
+            "发热": false,
+            "头昏": false,
+            "呕吐": false,
+            "恶心": false,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "瘙痒": true,
+            "胸闷": false,
+            "胸闷气促": false,
+            "发热": false,
+            "头昏": false,
+            "呕吐": false,
+            "恶心": false,
+            "畏寒": false,
+            "腹痛": false,
+            "头痛": false,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 179,
+        "disease_label": "皮炎",
+        "self_report": {
+            "瘙痒": true,
+            "皮疹": true,
+            "胸闷": false,
+            "腹痛": false,
+            "呼吸困难": false
+        },
+        "all_symptoms": {
+            "瘙痒": true,
+            "皮疹": true,
+            "胸闷": false,
+            "腹痛": false,
+            "呼吸困难": false,
+            "心悸": false
+        }
+    },
+    {
+        "id": 180,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true,
+            "瘙痒": true,
+            "腹痛": false,
+            "胸闷气促": false
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "瘙痒": true,
+            "腹痛": false,
+            "胸闷气促": false,
+            "胸闷": false
+        }
+    },
+    {
+        "id": 181,
+        "disease_label": "皮炎",
+        "self_report": {
+            "瘙痒": true
+        },
+        "all_symptoms": {
+            "瘙痒": true,
+            "畏寒": false,
+            "发热": false,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 182,
+        "disease_label": "皮炎",
+        "self_report": {
+            "瘙痒": true,
+            "胸骨后疼痛": false,
+            "呼吸困难": false
+        },
+        "all_symptoms": {
+            "瘙痒": true,
+            "胸骨后疼痛": false,
+            "呼吸困难": false,
+            "胸闷": false,
+            "发热": false,
+            "皮疹": true
+        }
+    },
+    {
+        "id": 183,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true,
+            "溃疡": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "溃疡": false,
+            "发热": false,
+            "恶心": false,
+            "头晕": false,
+            "瘙痒": true
+        }
+    },
+    {
+        "id": 184,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true,
+            "腹泻": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "腹泻": true,
+            "发热": false,
+            "呕吐": false
+        }
+    },
+    {
+        "id": 185,
+        "disease_label": "皮炎",
+        "self_report": {
+            "呕吐": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "呕吐": false,
+            "恶心": false,
+            "皮疹": false
+        }
+    },
+    {
+        "id": 186,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true,
+            "胸闷": false,
+            "呼吸困难": false,
+            "胸骨后疼痛": false
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "胸闷": false,
+            "呼吸困难": false,
+            "胸骨后疼痛": false,
+            "胸闷气促": false,
+            "心悸": false,
+            "瘙痒": true
+        }
+    },
+    {
+        "id": 187,
+        "disease_label": "皮炎",
+        "self_report": {
+            "胸闷": true
+        },
+        "all_symptoms": {
+            "胸闷": true,
+            "咳痰": false,
+            "瘙痒": true
+        }
+    },
+    {
+        "id": 188,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "畏寒": false,
+            "呕吐": false,
+            "恶心": false,
+            "瘙痒": true
+        }
+    },
+    {
+        "id": 189,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true,
+            "瘙痒": true,
+            "发热": false
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "瘙痒": true,
+            "发热": false,
+            "头晕": false
+        }
+    },
+    {
+        "id": 190,
+        "disease_label": "皮炎",
+        "self_report": {
+            "瘙痒": true,
+            "皮疹": true,
+            "咳嗽": false,
+            "呕吐": false,
+            "鼻塞": false,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "瘙痒": true,
+            "皮疹": true,
+            "咳嗽": false,
+            "呕吐": false,
+            "鼻塞": false,
+            "流涕": false,
+            "解稀便": false
+        }
+    },
+    {
+        "id": 191,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true,
+            "瘙痒": true,
+            "呕吐": false,
+            "畏寒": false
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "瘙痒": true,
+            "呕吐": false,
+            "畏寒": false,
+            "恶心": false
+        }
+    },
+    {
+        "id": 192,
+        "disease_label": "皮炎",
+        "self_report": {
+            "皮疹": true,
+            "瘙痒": true,
+            "胸闷": false,
+            "呼吸困难": false,
+            "腹泻": false,
+            "发热": false,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "呕吐": false
+        },
+        "all_symptoms": {
+            "皮疹": true,
+            "瘙痒": true,
+            "胸闷": false,
+            "呼吸困难": false,
+            "腹泻": false,
+            "发热": false,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "呕吐": false,
+            "咽部不适": false
+        }
+    },
+    {
+        "id": 193,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳鸣": true,
+            "耳痒": true
+        },
+        "all_symptoms": {
+            "耳鸣": true,
+            "耳痒": true,
+            "心悸": false
+        }
+    },
+    {
+        "id": 194,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "听力下降": true,
+            "耳痛": false,
+            "眩晕": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "听力下降": true,
+            "耳痛": false,
+            "眩晕": false,
+            "恶心": false,
+            "耳鸣": false,
+            "呕吐": false
+        }
+    },
+    {
+        "id": 195,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳痛": true,
+            "耳鸣": true,
+            "呼吸困难": false
+        },
+        "all_symptoms": {
+            "耳痛": true,
+            "耳鸣": true,
+            "呼吸困难": false,
+            "发热": false,
+            "听力下降": true,
+            "右耳痛": true,
+            "耳痒": true
+        }
+    },
+    {
+        "id": 196,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "发热": false,
+            "听力下降": false,
+            "眩晕": false,
+            "呕吐": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "发热": false,
+            "听力下降": false,
+            "眩晕": false,
+            "呕吐": false,
+            "恶心": false,
+            "耳鸣": false
+        }
+    },
+    {
+        "id": 197,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳鸣": true,
+            "耳痛": true,
+            "复视": false
+        },
+        "all_symptoms": {
+            "耳鸣": true,
+            "耳痛": true,
+            "复视": false,
+            "发热": false,
+            "听力下降": true,
+            "右耳痛": true,
+            "耳痒": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 198,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "右耳痛": true,
+            "耳痒": true,
+            "耳鸣": false,
+            "呕吐": false,
+            "恶心": false,
+            "听力下降": false
+        },
+        "all_symptoms": {
+            "右耳痛": true,
+            "耳痒": true,
+            "耳鸣": false,
+            "呕吐": false,
+            "恶心": false,
+            "听力下降": false,
+            "眩晕": false,
+            "耳痛": true
+        }
+    },
+    {
+        "id": 199,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳鸣": false,
+            "流涕": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "耳鸣": false,
+            "流涕": false,
+            "发热": false,
+            "耳痛": false
+        }
+    },
+    {
+        "id": 200,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳鸣": true,
+            "咳嗽": false,
+            "呕吐": false,
+            "恶心": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "耳鸣": true,
+            "咳嗽": false,
+            "呕吐": false,
+            "恶心": false,
+            "发热": false,
+            "流涕": false,
+            "头痛": false,
+            "耳痛": true,
+            "听力下降": true
+        }
+    },
+    {
+        "id": 201,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "听力下降": true,
+            "腹痛": false,
+            "眩晕": false
+        },
+        "all_symptoms": {
+            "听力下降": true,
+            "腹痛": false,
+            "眩晕": false,
+            "头痛": false,
+            "发热": false,
+            "耳痛": true,
+            "耳鸣": true,
+            "右耳痛": true
+        }
+    },
+    {
+        "id": 202,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳痒": true,
+            "咳嗽": false
+        },
+        "all_symptoms": {
+            "耳痒": true,
+            "咳嗽": false,
+            "咽部不适": false,
+            "发热": false,
+            "耳痛": true,
+            "耳鸣": true,
+            "右耳痛": true,
+            "听力下降": true
+        }
+    },
+    {
+        "id": 203,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳痒": true,
+            "听力下降": false,
+            "眩晕": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "耳痒": true,
+            "听力下降": false,
+            "眩晕": false,
+            "恶心": false,
+            "发热": false,
+            "耳鸣": false,
+            "右耳痛": true
+        }
+    },
+    {
+        "id": 204,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳痒": true,
+            "耳痛": true,
+            "耳鸣": false,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "耳痒": true,
+            "耳痛": true,
+            "耳鸣": false,
+            "流涕": false,
+            "发热": false,
+            "听力下降": true
+        }
+    },
+    {
+        "id": 205,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "头晕": true
+        },
+        "all_symptoms": {
+            "头晕": true,
+            "耳痛": true,
+            "听力下降": true
+        }
+    },
+    {
+        "id": 206,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳痒": true,
+            "红肿": true,
+            "耳鸣": false,
+            "听力下降": false
+        },
+        "all_symptoms": {
+            "耳痒": true,
+            "红肿": true,
+            "耳鸣": false,
+            "听力下降": false,
+            "发热": false,
+            "右耳痛": true
+        }
+    },
+    {
+        "id": 207,
+        "disease_label": "外耳炎",
+        "self_report": {
+            "耳鸣": true
+        },
+        "all_symptoms": {
+            "耳鸣": true,
+            "眩晕": false,
+            "听力下降": true
+        }
+    },
+    {
+        "id": 208,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "畏光": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "畏光": false,
+            "发热": false,
+            "哭闹": false,
+            "咽部不适": false
+        }
+    },
+    {
+        "id": 209,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "眼痛": true,
+            "眼红": true,
+            "畏光": false
+        },
+        "all_symptoms": {
+            "眼痛": true,
+            "眼红": true,
+            "畏光": false,
+            "哭闹": false,
+            "双眼眼痒不适": true
+        }
+    },
+    {
+        "id": 210,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "发热": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "解稀便": true,
+            "流涕": true
+        }
+    },
+    {
+        "id": 211,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "眼痒": true,
+            "畏光": true
+        },
+        "all_symptoms": {
+            "眼痒": true,
+            "畏光": true,
+            "视力下降": false,
+            "哭闹": true
+        }
+    },
+    {
+        "id": 212,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "双眼眼痒不适": true,
+            "畏光": false
+        },
+        "all_symptoms": {
+            "双眼眼痒不适": true,
+            "畏光": false,
+            "哭闹": false
+        }
+    },
+    {
+        "id": 213,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "畏光": true
+        },
+        "all_symptoms": {
+            "畏光": true,
+            "视力下降": false,
+            "眼胀": false,
+            "双眼眼痒不适": true,
+            "哭闹": true,
+            "眼红": true
+        }
+    },
+    {
+        "id": 214,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "眼红": true
+        },
+        "all_symptoms": {
+            "眼红": true,
+            "畏光": false,
+            "眼痛": false
+        }
+    },
+    {
+        "id": 215,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "发热": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "畏光": false,
+            "咽部不适": false,
+            "哭闹": true,
+            "眼红": true
+        }
+    },
+    {
+        "id": 216,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "眼痛": true,
+            "哭闹": false
+        },
+        "all_symptoms": {
+            "眼痛": true,
+            "哭闹": false,
+            "黑朦": false,
+            "畏光": false
+        }
+    },
+    {
+        "id": 217,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "眼痛": true
+        },
+        "all_symptoms": {
+            "眼痛": true,
+            "哭闹": true,
+            "畏光": true
+        }
+    },
+    {
+        "id": 218,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "双眼眼痒不适": true,
+            "眼红": true,
+            "水肿": false,
+            "腹泻": false,
+            "发热": false,
+            "意识障碍": false
+        },
+        "all_symptoms": {
+            "双眼眼痒不适": true,
+            "眼红": true,
+            "水肿": false,
+            "腹泻": false,
+            "发热": false,
+            "意识障碍": false,
+            "咳嗽": false,
+            "哭闹": true
+        }
+    },
+    {
+        "id": 219,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "双眼眼痒不适": true
+        },
+        "all_symptoms": {
+            "双眼眼痒不适": true,
+            "眼痛": true,
+            "哭闹": true,
+            "眼红": true
+        }
+    },
+    {
+        "id": 220,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "发热": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "腹痛": false,
+            "咳嗽": false,
+            "哭闹": true
+        }
+    },
+    {
+        "id": 221,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "眼红": true,
+            "头痛": false
+        },
+        "all_symptoms": {
+            "眼红": true,
+            "头痛": false,
+            "视力下降": false,
+            "眼痛": false,
+            "双眼眼痒不适": true,
+            "哭闹": true,
+            "畏光": true
+        }
+    },
+    {
+        "id": 222,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "眼痒": true,
+            "眼痛": false,
+            "眼胀": false,
+            "哭闹": false
+        },
+        "all_symptoms": {
+            "眼痒": true,
+            "眼痛": false,
+            "眼胀": false,
+            "哭闹": false,
+            "畏光": false
+        }
+    },
+    {
+        "id": 223,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "眼红": true
+        },
+        "all_symptoms": {
+            "眼红": true,
+            "眼痛": false,
+            "头痛": false,
+            "双眼眼痒不适": true,
+            "哭闹": true,
+            "畏光": true
+        }
+    },
+    {
+        "id": 224,
+        "disease_label": "结膜炎",
+        "self_report": {
+            "双眼眼痒不适": true,
+            "眼红": true,
+            "头痛": false,
+            "发热": false
+        },
+        "all_symptoms": {
+            "双眼眼痒不适": true,
+            "眼红": true,
+            "头痛": false,
+            "发热": false,
+            "哭闹": false
+        }
+    },
+    {
+        "id": 225,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "乳房胀痛": true,
+            "畏寒发热": true,
+            "胸闷": false,
+            "鼻塞": false,
+            "咳痰": false,
+            "咳嗽": false,
+            "寒战": false,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "乳房胀痛": true,
+            "畏寒发热": true,
+            "胸闷": false,
+            "鼻塞": false,
+            "咳痰": false,
+            "咳嗽": false,
+            "寒战": false,
+            "流涕": false,
+            "胸闷气促": false
+        }
+    },
+    {
+        "id": 226,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "乳房胀痛": true,
+            "头痛": true,
+            "咳嗽": false,
+            "呕吐": false,
+            "流涕": false,
+            "腹泻": false
+        },
+        "all_symptoms": {
+            "乳房胀痛": true,
+            "头痛": true,
+            "咳嗽": false,
+            "呕吐": false,
+            "流涕": false,
+            "腹泻": false,
+            "呼吸困难": false,
+            "发热": true,
+            "畏寒": true
+        }
+    },
+    {
+        "id": 227,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "乳房胀痛": true,
+            "胸闷": false,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "心悸": false,
+            "咽部不适": false
+        },
+        "all_symptoms": {
+            "乳房胀痛": true,
+            "胸闷": false,
+            "腹痛": false,
+            "胸骨后疼痛": false,
+            "心悸": false,
+            "咽部不适": false,
+            "胸闷气促": false,
+            "腹泻": false,
+            "发热": true
+        }
+    },
+    {
+        "id": 228,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "畏寒发热": true
+        },
+        "all_symptoms": {
+            "畏寒发热": true,
+            "胸闷": false,
+            "胸闷气促": false,
+            "乳房胀痛": true,
+            "咽部不适": true
+        }
+    },
+    {
+        "id": 229,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "发热": true,
+            "畏寒": true,
+            "咳嗽": false,
+            "腹痛": false,
+            "腹泻": false,
+            "寒战": false
+        },
+        "all_symptoms": {
+            "发热": true,
+            "畏寒": true,
+            "咳嗽": false,
+            "腹痛": false,
+            "腹泻": false,
+            "寒战": false,
+            "咳痰": false,
+            "乳房胀痛": true,
+            "头痛": true
+        }
+    },
+    {
+        "id": 230,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "乳房胀痛": true,
+            "胸闷气促": false,
+            "恶心": false
+        },
+        "all_symptoms": {
+            "乳房胀痛": true,
+            "胸闷气促": false,
+            "恶心": false,
+            "呕吐": false,
+            "胸闷": false,
+            "畏寒": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 231,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "头痛": true,
+            "咳痰": false,
+            "咳嗽": false,
+            "腹泻": false,
+            "腹痛": false,
+            "咽部不适": false,
+            "尿急": false,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "头痛": true,
+            "咳痰": false,
+            "咳嗽": false,
+            "腹泻": false,
+            "腹痛": false,
+            "咽部不适": false,
+            "尿急": false,
+            "流涕": false,
+            "尿痛": false,
+            "鼻塞": false,
+            "发热": true
+        }
+    },
+    {
+        "id": 232,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "发热": true,
+            "鼻塞": false,
+            "腰背痛": false,
+            "尿痛": false,
+            "腹痛": false,
+            "咽部不适": false,
+            "流涕": false
+        },
+        "all_symptoms": {
+            "发热": true,
+            "鼻塞": false,
+            "腰背痛": false,
+            "尿痛": false,
+            "腹痛": false,
+            "咽部不适": false,
+            "流涕": false,
+            "咳嗽": false,
+            "腹泻": false,
+            "乳房胀痛": true
+        }
+    },
+    {
+        "id": 233,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "畏寒": true,
+            "发热": true
+        },
+        "all_symptoms": {
+            "畏寒": true,
+            "发热": true,
+            "乳房胀痛": true
+        }
+    },
+    {
+        "id": 234,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "鼻塞": true,
+            "咽部不适": true
+        },
+        "all_symptoms": {
+            "鼻塞": true,
+            "咽部不适": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 235,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "发热": true,
+            "腹痛": false
+        },
+        "all_symptoms": {
+            "发热": true,
+            "腹痛": false,
+            "白带增多": false,
+            "阴道出血": false,
+            "乳房胀痛": true
+        }
+    },
+    {
+        "id": 236,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "尿痛": true,
+            "乳房胀痛": true,
+            "鼻塞": false,
+            "咳嗽": false,
+            "腹泻": false,
+            "流涕": false,
+            "咽部不适": false
+        },
+        "all_symptoms": {
+            "尿痛": true,
+            "乳房胀痛": true,
+            "鼻塞": false,
+            "咳嗽": false,
+            "腹泻": false,
+            "流涕": false,
+            "咽部不适": false,
+            "腹痛": false,
+            "发热": true
+        }
+    },
+    {
+        "id": 237,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "头痛": true
+        },
+        "all_symptoms": {
+            "头痛": true,
+            "咳嗽": false,
+            "鼻塞": false,
+            "乳房胀痛": true,
+            "发热": true
+        }
+    },
+    {
+        "id": 238,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "发热": true,
+            "乳房胀痛": true
+        },
+        "all_symptoms": {
+            "发热": true,
+            "乳房胀痛": true,
+            "咳嗽": false
+        }
+    },
+    {
+        "id": 239,
+        "disease_label": "乳腺炎",
+        "self_report": {
+            "乳房胀痛": true
+        },
+        "all_symptoms": {
+            "乳房胀痛": true,
+            "咽部不适": false,
+            "咳嗽": false,
+            "鼻塞": true,
+            "发热": true,
+            "咳痰": true
+        }
+    }
+]
