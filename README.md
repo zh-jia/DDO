@@ -31,7 +31,7 @@ Model training consists of two parts: **LLM Confidence Calibration** and **RL Po
 | --- | --- |
 | BTP-Adapter(Qwen2.5-7B-Instruct) | https://huggingface.co/zhjia/DDO/tree/main/adapters |
 | BTP-Adapter(Qwen2.5-14B-Instruct) | https://huggingface.co/zhjia/DDO/tree/main/adapters |
-| BTP-Adapter(LLama3-8B-Chinese-Chat) | https://huggingface.co/zhjia/DDO/adapters |
+| BTP-Adapter(LLama3-8B-Chinese-Chat) | https://huggingface.co/zhjia/DDO/tree/main/adapters |
 | RL Policy Model | https://huggingface.co/zhjia/DDO/tree/main/policy |
 
 
