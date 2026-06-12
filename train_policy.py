@@ -98,7 +98,7 @@ def main():
         "importance_threshold": args.importance_threshold,
         "window_size": args.window_size,
         "num_samples": args.num_samples,
-        "retry": args.retry,
+        "retry": -1,
         "llm_name": args.llm_name,
         "llm": llm,
         "tokenizer": tokenizer,
